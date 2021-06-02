@@ -83,5 +83,3 @@ export class AppComponent {
 
 
 
-
-// "!length || !(useLetters || useNumbers || useSymbols)"
